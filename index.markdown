@@ -8,8 +8,7 @@ next: governance.html
 
 I. INTRODUCTION
 =========
-
-###Open Data
+####Open Data – data.ny.gov
 
 ####Quality by Design
 *	New York State is committed to proactively releasing publishable state data.
@@ -35,15 +34,15 @@ Working in collaboration with state agencies, this Handbook will be supplemented
 ####Timeline
 In advancing a transparency agenda, New York State is committed to continuous publication of publishable State data.  Data discovery is an iterative and on-going process.  The following is a high-level timeline for the implementation of Executive Order 95.
 
-	March 11, 2013      Executive Order No. 95 issued	
-	March 11, 2013      Open.ny.gov website launched	
-	April 10, 2013      Agency Data Coordinators Appointed	
-	April 25, 2013      Data Working Group established	
-	June 10, 2013       ITS issues Provisional Open Data Handbook 	
-	September 9, 2013   Covered State entities create catalogues of publishable data; covered State entities’ propose schedule to ITS for making publishable state data publicly available. 	
-	November 6, 2013    ITS issues Final Open Data Handbook	
-	April 1, 2014 	    ITS begins publishing quarterly reports 	
-	December 15, 2019   Open Data and compliance with Executive Order No. 95 is fully incorporated into state covered entities' on-going core business planning and strategies.	
+* **March 11, 2013**      Executive Order No. 95 issued	
+* **March 11, 2013**      Open.ny.gov website launched
+* **April 10, 2013**      Agency Data Coordinators Appointed
+* **April 25, 2013**      Data Working Group established	
+* **June 10, 2013**       ITS issues Provisional Open Data Handbook 
+* **September 9, 2013**   Covered State entities create catalogues of publishable data; covered State entities’ propose schedule to ITS for making publishable state data publicly available. 	
+* **November 6, 2013**    ITS issues Final Open Data Handbook
+* **April 1, 2014** 	ITS begins publishing quarterly reports 	
+* **December 15, 2019**   Open Data and compliance with Executive Order No. 95 is fully incorporated into state covered entities' on-going core business planning and strategies.	
 
 ####Definitions
 
