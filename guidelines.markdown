@@ -12,7 +12,7 @@ Executive Order No. 95 provides a specific definition of “Publishable State Da
 Covered State entities (and entities not covered by Executive Order 95) vary widely in terms of size, personnel, functions, responsibilities, mission, and data collected and maintained.  As such, the identification and prioritization processes may vary across agencies and entities.  These guidelines serve to provide assistance across a broad spectrum of agencies, with the stipulation that agencies look to their governing laws, rules, regulations, and policies in identi-fying and publishing “publishable state data.” 
 
 **Figure 1: Guidance Summary**
-![Guidance Summary](http://nys-its.github.io/open-data-handbook/img/GuideanceSummary.png "Guidance Summary")
+![Guidance Summary](http://jonmuckell.github.io/open-data-handbook/img/GuideanceSummary.png "Guidance Summary")
 
  
 ####Data Set Identification
@@ -22,7 +22,7 @@ The questions in Figure 2, and below, are neither exhaustive nor may be applicab
 
 
 **Figure 2: Identifying Publishable Data Sets**
-![Identifying Publishable Data Sets](http://nys-its.github.io/open-data-handbook/img/PublishableDataSets.png "Publishable Data Sets")
+![Identifying Publishable Data Sets](http://jonmuckell.github.io/open-data-handbook/img/PublishableDataSets.png "Publishable Data Sets")
 
 
 
@@ -51,7 +51,7 @@ When creating a schedule for publication of a particular dataset, agencies must 
 In prioritizing data for release, therefore, agencies must account for time to: identify data, as-sess the data (i.e., ensure consistency, timeliness, relevance, completeness, and accuracy of the data), ensure completeness of the metadata and data dictionary, review and obtain all necessary approvals to publish the data, and prepare data, metadata and requisite accompa-nying documentation for publication (Figure 3). 
 
  **Figure 3: Prioritization**
-![Prioritization](http://nys-its.github.io/open-data-handbook/img/Prioritization.png "Prioritization")
+![Prioritization](http://jonmuckell.github.io/open-data-handbook/img/Prioritization.png "Prioritization")
 
 Below are suggested questions, the answers to which can assist agencies in prioritizing publication of high value “publishable state data” consistent with Executive Order 95:
 
