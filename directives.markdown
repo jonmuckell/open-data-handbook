@@ -1,10 +1,10 @@
 ---
 layout: default
 previous: index.html
-next: publishable.html
+next: guidelines.html
 ---
 
-II.    DIRECTIVES
+Directives for Participating Agencies
 =========
 The following directives are based upon Executive Order 95.
 
@@ -84,9 +84,9 @@ The current Open Data Platform supports the following formats:
 #####Geographic Data
 Geospatial data is usually organized as a collection of features that define a layer.   Layers can be overlaid on top of one another, allowing visualization spatial relations, spatial queries, and analysis. The Open Data Platform supports two data formats for geospatial information.  The appropriate format is dependent on the specific characteristics of the underlying geographic data.
 
-* Points: All Tabular File Formats or Shapefile
-* Lines:  Shapefile
-* Polygons: Shapefile
+* **Points:** All Tabular File Formats or Shapefile
+* **Lines:**  Shapefile
+* **Polygons:** Shapefile
 
 Point data can be stored in either tabular or shapefile format.  Tabular formatting of points re-quires either columns for latitude and longitude, or complete address information (house number, street, village/town/city, state, and zip code) that can be geocoded.  In contrast, lines and polygons define complex geometric structures that are not easily defined as column at-tributes.  Therefore, shapefile format is a preferred format for these complex geographic structures.  
 
@@ -108,9 +108,9 @@ The Open Data New York Platform supports geocoding services which convert human-
 ####Updates to Published Data Sets
 Data sets on data.ny.gov must be kept up-to-date. Specific guidance regarding updates will be addressed in technical and working documents previously referenced.  Four mechanisms are supported for refreshing a dataset. 
 
-* Replace: All existing records are removed and new records are inserted.
-* Append: New dataset records are inserted
-* Update: Existing records are modified 
-* Delete: Existing records are removed
+* **Replace:** All existing records are removed and new records are inserted.
+* **Append:** New dataset records are inserted
+* **Update:** Existing records are modified 
+* **Delete:** Existing records are removed
 
 The frequency of updates is included in the metadata each provides with each dataset (see metadata posting frequency).
