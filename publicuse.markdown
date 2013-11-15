@@ -59,7 +59,7 @@ The Endpoint points to a RESTful implementation of the underlying dataset that h
 * **RDF**
 
 ####Featured API Catalog
-Additionally, the Open New York Platform supports the creation of a featured API Catalog that provides custom endpoints to the developer community to dynamically query the raw dataset based on “specified” dataset elements. Just like published data sets, the featured API Catalog is categorized and tagged using the common domain and metadata schema
+Additionally, the Open New York Platform supports the creation of a featured API Catalog that provides custom endpoints to the developer community to dynamically query the raw dataset based on “specified” dataset elements. Just like published data sets, the featured API Catalog is categorized and tagged using the common domain and metadata schema.
 
 ###Terms of Use
 The OPEN-NY Terms of Use may be found on the OPEN-NY website at the following link:   https://data.ny.gov/download/77gx-ii52/application/pdf.  The terms are subject to modification as conditions warrant.  When the Terms of Use change, this will be indicated within the Terms themselves with notification of the "Last Modified Date.
