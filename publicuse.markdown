@@ -5,7 +5,7 @@ next: ExecutiveOrder95.html
 ---
 
 
-Public Use
+Public Use of data.ny.gov
 =========
 
 The following section is intended for use by the public when interacting with data.ny.gov.
