@@ -10,6 +10,8 @@ I. INTRODUCTION
 =========
 ####Open Data – data.ny.gov
 
+
+
 ####Quality by Design
 *	New York State is committed to proactively releasing publishable state data.
 *	New York State is committed to making publishable state data openly and freely available in accessible formats for the public to reuse and consume. 
@@ -25,7 +27,7 @@ The concept of “Open Data” describes data that is freely available, machine 
 OpenNY puts tools for transparency, accountability, and innovation directly into the hands of New Yorkers and people all around the world through a centralized, user-friendly interface.  This increased visibility provides derivative value as the public is able to analyze and utilize government data, and better understand what is happening in government on all levels – federal, state, and local.  
 
 ####The Open Data Handbook
-This Open Data Handbook is intended as a general guide for government entities participating in data.ny.gov , as well as the general public.  The Handbook provides guidelines for identifying, reviewing, and prioritizing publishable state data for publication – with a foundational emphasis on high quality, and metadata and documentation requirements. These guidelines are intended for use by both covered state entities and other government entities not covered by Executive Order 95 (including localities).  These guidelines are also intended for use by the public in order to understand how New York State makes its publishable data sets available. 
+This Open Data Handbook is intended as a general guide for government entities participating in data.ny.gov, as well as the general public.  The Handbook provides guidelines for identifying, reviewing, and prioritizing publishable state data for publication – with a foundational emphasis on high quality, and metadata and documentation requirements. These guidelines are intended for use by both covered state entities and other government entities not covered by Executive Order 95 (including localities).  These guidelines are also intended for use by the public in order to understand how New York State makes its publishable data sets available. 
 
 The breadth of data and agency participation are continually being enhanced and expanded on data.ny.gov, making it a dynamic, living platform. This Handbook, providing guidelines for publication of publishable State data onto data.ny.gov, is the first step in a major shift in the way New York State government agencies share information to promote efficiency, accessibility and transparency; a major shift in the way New York State government engages citizens and fosters innovation and discovery in the scientific and business communities.  It begins the process of standardizing the state’s data, which will make it easier for both government workers and the public to discover and use the data.  This, in turn, advances “interoperability” so the data can be more easily shared and analyzed.  
 
