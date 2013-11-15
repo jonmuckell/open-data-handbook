@@ -56,7 +56,7 @@ In prioritizing data for release, therefore, agencies must account for time to: 
 Below are suggested questions, the answers to which can assist agencies in prioritizing publication of high value “publishable state data” consistent with Executive Order 95:
 
 1.	**Does the data highlight agency performance, or might publication of the data benefit the public by setting higher standards?**  The agency might be in the forefront of standards for government performance, where exposing the data might cause other agencies to raise their performance.
-2.	Has the data ever been published or made available in a machine-readable format so that it can be processed, analyzed, or re-used?** There may exist procedures in place which can be leveraged to publish the data, such as exports for periodic department reviews, or routine exchanges of data with other agencies.
+2.	**Has the data ever been published or made available in a machine-readable format so that it can be processed, analyzed, or re-used?** There may exist procedures in place which can be leveraged to publish the data, such as exports for periodic department reviews, or routine exchanges of data with other agencies.
 3.	**Is the data “high value?”** While “high value” can be subjective, your agency best understands the needs of the constituency that it serves. Publishing relevant data can ultimately support those needs.
 4.	**Does availability of the data align with new State and/or Agency initiatives?**  The ordering publication of any relevant datasets accordingly might be of great value.
 5.	**Does availability of the data align with federal initiatives or exposures of federal data?**  There may be higher value in the agency's data if synergies can be created.
