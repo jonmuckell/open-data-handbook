@@ -1,6 +1,7 @@
 ---
 layout: default
-previous: termsofuse.html
+previous: publicuse.html
+next: metadata.html
 ---
 
 
