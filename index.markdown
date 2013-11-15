@@ -9,7 +9,9 @@ next: directives.html
 I. INTRODUCTION
 =========
 ###Open Data – data.ny.gov
+
 <br/>
+
 ###Quality by Design
 *	New York State is committed to proactively releasing publishable state data.
 *	New York State is committed to making publishable state data openly and freely available in accessible formats for the public to reuse and consume. 
