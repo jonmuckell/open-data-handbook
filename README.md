@@ -1,2 +1,2 @@
-New York State Provisional Open Data Handbook
+New York State Open Data Handbook
 http://nys-its.github.io/open-data-handbook/
